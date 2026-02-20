@@ -1,0 +1,16 @@
+[
+  {
+    "company": "Shyam Spectra Pvt. Ltd.",
+    "role": "Software Developer",
+    "startDate": "May 2022",
+    "endDate": "Present",
+    "location": "India",
+    "responsibilities": [
+      "Developed and maintained enterprise-level web applications using React and Node.js",
+      "Built and consumed REST APIs for internal and external systems",
+      "Worked on self-care portals and customer-facing platforms",
+      "Handled deployments, production issues, and ongoing support",
+      "Collaborated with cross-functional teams to deliver business solutions"
+    ]
+  }
+]

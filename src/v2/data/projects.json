@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Spectra One – Self Care Portal",
+    "description": "An enterprise-level self-care portal designed to help users manage their services, requests, and account information efficiently.",
+    "techStack": ["React.js", "Node.js", "REST APIs", "MySQL"],
+    "features": [
+      "User authentication and authorization",
+      "Service request management",
+      "Responsive UI for all devices",
+      "Production-level performance optimizations"
+    ],
+    "role": "Initially developed with a team of three and later took complete ownership of development and support.",
+    "github": "",
+    "demo": "",
+    "isProfessional": true
+  },
+  {
+    "id": 2,
+    "title": "OCR Document Extraction System",
+    "description": "A document processing system that extracts structured data from non-standard documents like bills, authorization letters, and purchase orders.",
+    "techStack": ["Python", "OCR", "AI/ML APIs"],
+    "features": [
+      "Text extraction from scanned documents",
+      "Support for multiple document formats",
+      "Data validation and structuring",
+      "API-based architecture"
+    ],
+    "role": "Worked on API development and document processing logic.",
+    "github": "",
+    "demo": "",
+    "isProfessional": true
+  },
+  {
+    "id": 3,
+    "title": "Site Blocker Tool",
+    "description": "A utility application that allows users to block distracting websites to improve productivity.",
+    "techStack": ["React.js", "JavaScript"],
+    "features": [
+      "Custom site blocking rules",
+      "User-friendly interface",
+      "Lightweight and fast"
+    ],
+    "role": "Designed and developed the complete application.",
+    "github": "https://github.com/Meghadeshmukh14",
+    "demo": "",
+    "isProfessional": false
+  }
+]
