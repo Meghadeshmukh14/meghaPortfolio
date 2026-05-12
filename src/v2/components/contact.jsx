@@ -74,7 +74,7 @@ const Contact = ({ theme }) => {
 
               {[
                 { icon: '✉', label: 'Email', value: 'meghadeshmukh1429@gmail.com', href: 'mailto:meghadeshmukh1429@gmail.com' },
-                { icon: '⌖', label: 'Location', value: 'Gurgaon, India', href: null },
+                { icon: '⌖', label: 'Location', value: 'Delhi NCR, India', href: null },
               ].map(({ icon, label, value, href }, i) => (
                 <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 14, padding: 16, marginBottom: 12, borderRadius: 14, background: theme.inputBg, border: `1px solid ${theme.cardBorder}`, transition: 'border-color .2s' }}
                   onMouseEnter={e => e.currentTarget.style.borderColor = theme.cardBorderGold}

@@ -122,7 +122,7 @@ const Hero = ({ theme, isDark }) => {
               ✉ meghadeshmukh1429@gmail.com
             </a>
             <span style={{ opacity: .25 }}>|</span>
-            <span style={{ display: 'flex', alignItems: 'center', gap: 5 }}>⌖ Gurgaon</span>
+            <span style={{ display: 'flex', alignItems: 'center', gap: 5 }}>⌖ Delhi NCR</span>
           </div>
 
           {/* Social links */}
